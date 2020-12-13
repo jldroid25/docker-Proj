@@ -1,0 +1,18 @@
+
+------What Docker Does?
+
+- It carves up a computer  into sealed containers that run your code.
+- Gets the code to and from your computer.
+- Builds these containers for you.
+- it is also a platform for you find and share containers,
+  which are different from virtual machines.
+- A container is a self-contained sealed unit of software
+  Contains everything required to run the code.
+ 
+ About Docker:
+ 
+ - It's a client program (you type command on your terminal)
+ - A server program that manages a linux system
+ - A program that builds containers from code.
+ 
+  
